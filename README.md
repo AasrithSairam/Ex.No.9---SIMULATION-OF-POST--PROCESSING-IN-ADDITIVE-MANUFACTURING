@@ -47,8 +47,9 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: Ponguru Aasrith Sairam
+### Register Number: 212223240116
+![image](https://github.com/AasrithSairam/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139331438/42ed3986-5a11-45f0-bcdb-a8b25b065288)
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
